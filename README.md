@@ -1,5 +1,4 @@
 ### Hi there 👋 I'm Kevin Lim
------------------------------------------------------------
 
 I'm a very self-disciplined, result oriented full stack developer with demonstrated experience in building CRM system, blockchain related applications.
 
