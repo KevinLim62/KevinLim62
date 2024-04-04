@@ -12,8 +12,9 @@ I'm a very self-disciplined, result oriented full stack developer with demonstra
 - **Others**: RESTful APIs, GraphQL, WebSocket, JSON
 
 ## 📫 Let's Connect
-- LinkedIn: [[Your LinkedIn Profile](link)](https://www.linkedin.com/in/kevinlim62/)
-- Website: https://kevin62-portfolio.vercel.app
+- Email: (cheryiong62@gmail.com)
+- LinkedIn: (https://www.linkedin.com/in/kevinlim62)
+- Website: (https://kevin62-portfolio.vercel.app)
 
 <!--
 **KevinLim62/KevinLim62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
