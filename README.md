@@ -3,7 +3,7 @@
 I'm a very self-disciplined, result oriented full stack developer with demonstrated experience in building CRM system, blockchain related applications.
 
 ## 💻 Technologies & Tools
-- **Frontend**: HTML5, CSS3, JavaScript (ES6+), TypeScript React.js, Next.js, Vue.js, Nuxt.js
+- **Frontend**: HTML5, CSS3, JavaScript (ES6+), TypeScript, React.js, Next.js, Vue.js, Nuxt.js
 - **Backend**: Node.js, Express.js, Go, Chi
 - **Databases**: PostgreSQL, MongoDB
 - **DevOps**: Docker, AWS
