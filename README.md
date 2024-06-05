@@ -4,7 +4,7 @@ I'm a very self-disciplined, result oriented full stack developer with demonstra
 
 ## 💻 Technologies & Tools
 - **Frontend**: HTML5, CSS3, JavaScript (ES6+), TypeScript, React.js, Next.js, Vue.js, Nuxt.js
-- **Backend**: Node.js, Express.js, Go, Chi
+- **Backend**: Node.js, Express.js, Nest.js, Go, Chi
 - **Databases**: PostgreSQL, MongoDB
 - **DevOps**: Docker, AWS
 - **Version Control**: Git, GitHub, Bitbucket
